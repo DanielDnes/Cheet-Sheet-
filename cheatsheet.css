@@ -1,0 +1,23 @@
+table {
+    margin: 0 auto;
+    width: auto;
+}
+table, 
+th, 
+td {
+    border: 2px solid #7ebc89;
+}
+#column{
+    background-color: #C1DBB3;
+}
+html,
+body{
+    text-align: center;
+    background-color: #faedca;
+}
+h1,
+h2,
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fe5d26;
+}
